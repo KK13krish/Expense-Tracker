@@ -4,7 +4,7 @@
 @theme {
   --font-display: "Poppins","sans-serif";
   --breakpoint-3xl: 1920px;
-  --color-primary: #875cf5;
+  --color-primary: #6e5cf5;
 
 }
 
@@ -14,7 +14,7 @@
   }
 
   body {
-    background-color: #fcfbfc;
+    background-color: #dddeff;
     overflow-x: hidden;
   }
 }
